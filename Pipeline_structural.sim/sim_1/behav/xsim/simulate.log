@@ -1,0 +1,4 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+$stop called at time : 750 ns : File "/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sim_1/new/Fetch_test.v" Line 123
+$stop called at time : 750 ns : File "/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sim_1/new/Fetch_test.v" Line 123

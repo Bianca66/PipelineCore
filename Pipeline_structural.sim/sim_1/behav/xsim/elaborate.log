@@ -1,0 +1,19 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/palade/Xilinx/Vivado/2019.2/bin/unwrapped/lnx64.o/xelab -wto f96bc80b615c438a9b6be14be2e9f928 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Fetch_tb_behav xil_defaultlib.Fetch_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 320 differs from formal bit length 10 for port 'in1' [/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sources_1/new/Fetch.v:32]
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sources_1/new/Fetch.v:32]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mux(N=10)
+Compiling module xil_defaultlib.adder
+Compiling module xil_defaultlib.register
+Compiling module xil_defaultlib.Fetch
+Compiling module xil_defaultlib.Fetch_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Fetch_tb_behav

@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sim_1/new/Fetch_test.v,1578390021,verilog,,,/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sources_1/new/opcode.v,Fetch_tb,,,../../../../Pipeline_structural.srcs/sources_1/new,,,,,
+/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sources_1/new/Fetch.v,1578390696,verilog,,/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sources_1/new/adder.v,,Fetch,,,../../../../Pipeline_structural.srcs/sources_1/new,,,,,
+/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sources_1/new/adder.v,1578389462,verilog,,/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sources_1/new/mux.v,,adder,,,../../../../Pipeline_structural.srcs/sources_1/new,,,,,
+/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sources_1/new/mux.v,1578389443,verilog,,/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sources_1/new/register.v,,mux;mux3,,,../../../../Pipeline_structural.srcs/sources_1/new,,,,,
+/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sources_1/new/opcode.v,1578353530,verilog,,/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sources_1/new/Fetch.v,,,,,../../../../Pipeline_structural.srcs/sources_1/new,,,,,
+/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sources_1/new/register.v,1578389684,verilog,,/home/palade/Documents/proiecte/Digital_System_Design/Pipeline_structural/Pipeline_structural.srcs/sim_1/new/Fetch_test.v,,register,,,../../../../Pipeline_structural.srcs/sources_1/new,,,,,
